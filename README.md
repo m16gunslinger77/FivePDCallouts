@@ -1,6 +1,11 @@
 ***************************
+
 Developed  by 1-Adam-2 Productions
+
 Author: m16gunslinger77
+
+Discord: https://discord.gg/pm6NkU4eff
+
 ***************************
 
 These callouts may be used for singleplayer or FiveM servers as released.  At the time of release these should be Onesync compatible.
