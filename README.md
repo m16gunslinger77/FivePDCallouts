@@ -16,9 +16,13 @@ A collection of custom made callouts that include Armed Subjects, Dead Body repo
 Illegal Fishing Complaints, Noise Complaint investigation, Suspicious Persons
 
 **The Noise Complaint and Dead Body investigations may require multiple key strokes to register next steps.
+
 Noise Complaint example: https://medal.tv/games/gta-v/clips/t15RbN7KJp773/d1337ngYXAL4?invite=cr-MSxZWEcsMzQ3ODg4NzMs
+
 Dead Body Complaint example: https://medal.tv/games/gta-v/clips/vjGZhE9Z579HV/d1337bY8OxH6?invite=cr-MSx2OEQsMzQ3ODg4NzMs
+
 Illegal Fishing example:  https://medal.tv/games/gta-v/clips/xh7Xu-cvzhAMZ/d1337gSvofhY?invite=cr-MSx3ZXAsMzQ3ODg4NzMs
+
 
 ###Felony Warrant###
 Felony Warrant callouts near the player.  Very basic but provides updates during the callout similar to a real callout.
